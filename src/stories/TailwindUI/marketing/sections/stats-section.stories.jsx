@@ -2,7 +2,7 @@
  
 import { UsersIcon } from '@heroicons/react/outline'
 export default {
-  title: 'TailwindUI/Marketing/Sections/Stats Sections',
+  title: 'Tailwind UI/Marketing/Sections/Stats Sections',
 };
 export function SimpleInCard() {
   /* This example requires Tailwind CSS v2.0+ */

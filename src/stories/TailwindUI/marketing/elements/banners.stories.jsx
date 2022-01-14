@@ -1,6 +1,6 @@
 import { SpeakerphoneIcon, XIcon } from '@heroicons/react/outline'
 export default {
-  title: 'TailwindUI/Marketing/Elements/Banners',
+  title: 'Tailwind UI/Marketing/Elements/Banners',
 };
 export function FloatingAtBottom() {
   /* This example requires Tailwind CSS v2.0+ 

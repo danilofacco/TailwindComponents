@@ -2,7 +2,7 @@ import { CheckIcon, MinusIcon, CheckCircleIcon, CalendarIcon, PlusIcon, UsersIco
 import { Fragment } from 'react'
 
 export default {
-  title: 'TailwindUI/Marketing/Sections/Pricing',
+  title: 'Tailwind UI/Marketing/Sections/Pricing',
 };
 export function FoutTiersWithToogle() {
   /* This example requires Tailwind CSS v2.0+ 

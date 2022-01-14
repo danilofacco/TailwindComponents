@@ -5,7 +5,7 @@ import { ExternalLinkIcon } from '@heroicons/react/solid'
  
  
 export default {
-  title: 'TailwindUI/Marketing/Page Examples/Contact Pages',
+  title: 'Tailwind UI/Marketing/Page Examples/Contact Pages',
 };
 export function SideBySideGridAndNewsletter() { 
   /*

@@ -1,7 +1,7 @@
  
  
 export default {
-  title: 'TailwindUI/Marketing/Sections/Newsletter Sections',
+  title: 'Tailwind UI/Marketing/Sections/Newsletter Sections',
 };
 export function CenteredCardWithGraphic() {
   /*

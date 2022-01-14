@@ -28,7 +28,7 @@ import { ChevronRightIcon, ChevronDownIcon, ExternalLinkIcon,  StarIcon} from '@
 
 
 export default {
-  title: 'TailwindUI/Marketing/Page Examples/Landing Pages',
+  title: 'Tailwind UI/Marketing/Page Examples/Landing Pages',
 };
 export function BackgroundImageHeroWithAlternatingFeatures() {
   /*

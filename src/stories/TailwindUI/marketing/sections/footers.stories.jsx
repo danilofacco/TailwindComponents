@@ -2,7 +2,7 @@
  import { ChevronDownIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Marketing/Sections/Footer',
+  title: 'Tailwind UI/Marketing/Sections/Footer',
 };
 export function FourColmnWithCompanyMission() {
   /* This example requires Tailwind CSS v2.0+ */

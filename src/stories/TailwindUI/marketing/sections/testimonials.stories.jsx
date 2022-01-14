@@ -1,7 +1,7 @@
 
 
 export default {
-  title: 'TailwindUI/Marketing/Sections/Testimonials',
+  title: 'Tailwind UI/Marketing/Sections/Testimonials',
 };
 export function SideBySideOnBrand() { 
   /* This example requires Tailwind CSS v2.0+ */

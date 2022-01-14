@@ -29,7 +29,7 @@ import {
 } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Marketing/Elements/Flyout Menus',
+  title: 'Tailwind UI/Marketing/Elements/Flyout Menus',
 };
 export function FullWidthTwoColumns() { 
   /* This example requires Tailwind CSS v2.0+  

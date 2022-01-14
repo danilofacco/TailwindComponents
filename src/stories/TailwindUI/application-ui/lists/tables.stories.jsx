@@ -1,7 +1,7 @@
 import { CheckCircleIcon, ChevronRightIcon, MailIcon,CalendarIcon, LocationMarkerIcon, UsersIcon } from '@heroicons/react/solid'
   
 export default {
-  title: 'TailwindUI/Application UI/Lists/Tables',
+  title: 'Tailwind UI/Application UI/Lists/Tables',
 }; 
 
  

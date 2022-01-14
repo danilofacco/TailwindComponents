@@ -15,7 +15,7 @@ import {
 } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Elements/Dropdowns',
+  title: 'Tailwind UI/Application UI/Elements/Dropdowns',
 };
 
 export function Simple() {/* This example requires Tailwind CSS v2.0+   

@@ -4,7 +4,7 @@ import { CheckIcon, ChevronDownIcon, SelectorIcon } from '@heroicons/react/solid
 import { Fragment, useState } from 'react'
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Select Menus',
+  title: 'Tailwind UI/Application UI/Forms/Select Menus',
 };
 
 

@@ -2,7 +2,7 @@ import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/solid'
 import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Navigation',
+  title: 'Tailwind UI/Application UI/Navigation/Navigation',
 };
 export function CardFooterWithPageButtons() {
   /* This example requires Tailwind CSS v2.0

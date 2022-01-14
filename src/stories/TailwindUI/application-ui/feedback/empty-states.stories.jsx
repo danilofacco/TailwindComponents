@@ -12,7 +12,7 @@ import {
 } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Application UI/Feedback/Empty States',
+  title: 'Tailwind UI/Application UI/Feedback/Empty States',
 };
 
 

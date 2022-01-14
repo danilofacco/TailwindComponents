@@ -5,7 +5,7 @@ import { Switch } from '@headlessui/react'
 import { MailIcon, PhoneIcon } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Marketing/Sections/Contact Sections',
+  title: 'Tailwind UI/Marketing/Sections/Contact Sections',
 };
 export function Centered() {
   /*

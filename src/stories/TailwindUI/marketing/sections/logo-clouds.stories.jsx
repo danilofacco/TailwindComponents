@@ -1,7 +1,7 @@
  
  
 export default {
-  title: 'TailwindUI/Marketing/Sections/Logo Clouds',
+  title: 'Tailwind UI/Marketing/Sections/Logo Clouds',
 };
 export function OffWhiteGrid() {
   /* This example requires Tailwind CSS v2.0+ */

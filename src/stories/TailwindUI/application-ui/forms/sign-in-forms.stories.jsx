@@ -2,7 +2,7 @@
 import { LockClosedIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Sign In Forms',
+  title: 'Tailwind UI/Application UI/Forms/Sign In Forms',
 };
 
 

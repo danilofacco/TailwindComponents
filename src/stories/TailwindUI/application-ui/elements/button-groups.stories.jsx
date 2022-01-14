@@ -6,7 +6,7 @@ import { BookmarkIcon } from '@heroicons/react/solid'
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Elements/Button Groups',
+  title: 'Tailwind UI/Application UI/Elements/Button Groups',
 };
 
 export function Basic() {

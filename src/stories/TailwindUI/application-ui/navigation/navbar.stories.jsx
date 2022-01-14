@@ -3,7 +3,7 @@ import { Disclosure, Popover , Menu, Transition } from '@headlessui/react'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 import { PlusSmIcon,SearchIcon } from '@heroicons/react/solid'
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Navbar',
+  title: 'Tailwind UI/Application UI/Navigation/Navbar',
 }; 
 export function DarkWithQuickAction(){ 
   /* This example requires Tailwind CSS v2.0+  

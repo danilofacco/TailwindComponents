@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { Switch } from '@headlessui/react'
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Action Panels',
+  title: 'Tailwind UI/Application UI/Forms/Action Panels',
 };
 
  

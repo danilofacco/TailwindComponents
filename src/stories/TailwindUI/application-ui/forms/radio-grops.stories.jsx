@@ -6,7 +6,7 @@ import { CheckCircleIcon } from '@heroicons/react/solid'
 
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Radio Groups',
+  title: 'Tailwind UI/Application UI/Forms/Radio Groups',
 };
 
 export function Cards() {

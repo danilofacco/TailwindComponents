@@ -2,7 +2,7 @@
 import { SortAscendingIcon, UsersIcon, QuestionMarkCircleIcon, ExclamationCircleIcon, MailIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Input Groups',
+  title: 'Tailwind UI/Application UI/Forms/Input Groups',
 };
 
 export function InputWithAddOn() {

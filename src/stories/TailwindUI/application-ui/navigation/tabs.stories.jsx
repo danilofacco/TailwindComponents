@@ -3,7 +3,7 @@
   import { CreditCardIcon, OfficeBuildingIcon, UserIcon, UsersIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Tabs',
+  title: 'Tailwind UI/Application UI/Navigation/Tabs',
 };
 export function BarWithUnderline() {
   /*

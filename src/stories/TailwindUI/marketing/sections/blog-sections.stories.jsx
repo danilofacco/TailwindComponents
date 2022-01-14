@@ -1,7 +1,7 @@
 
 
 export default {
-  title: 'TailwindUI/Marketing/Sections/Blog Sections',
+  title: 'Tailwind UI/Marketing/Sections/Blog Sections',
 };
 export function TwoColumnWithSignUp() {
   /*

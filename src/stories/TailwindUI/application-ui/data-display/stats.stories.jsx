@@ -5,7 +5,7 @@ import { CursorClickIcon, MailOpenIcon, UsersIcon } from '@heroicons/react/outli
 
 
 export default {
-  title: 'TailwindUI/Application UI/Data Display/Stats',
+  title: 'Tailwind UI/Application UI/Data Display/Stats',
 };
 
 

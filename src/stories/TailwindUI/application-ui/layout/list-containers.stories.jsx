@@ -1,6 +1,6 @@
 
 export default {
-  title: 'TailwindUI/Application UI/Layout/List Containers',
+  title: 'Tailwind UI/Application UI/Layout/List Containers',
 };
 export function card_with_dividers__full_width_on_mobile() {
 

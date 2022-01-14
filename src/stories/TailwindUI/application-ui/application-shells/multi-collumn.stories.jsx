@@ -29,7 +29,7 @@ import { CalendarIcon,
   XIcon } from '@heroicons/react/outline'
   
  export default {
-  title: 'TailwindUI/Application UI/Application Shells/Multi Column',
+  title: 'Tailwind UI/Application UI/Application Shells/Multi Column',
 };
 
 

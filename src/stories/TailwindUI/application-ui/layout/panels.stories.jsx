@@ -1,5 +1,5 @@
 export default {
-  title: 'TailwindUI/Application UI/Layout/Panels',
+  title: 'Tailwind UI/Application UI/Layout/Panels',
 };
 export function BasicCard() {
   return (

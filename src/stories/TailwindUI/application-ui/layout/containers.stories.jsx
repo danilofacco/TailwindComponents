@@ -1,7 +1,7 @@
 
 
 export default {
-  title: 'TailwindUI/Application UI/Layout/Containers',
+  title: 'Tailwind UI/Application UI/Layout/Containers',
 };
 export function ConstrainedToBreakpointWithPaddedContent() {
   return <div className="container mx-auto px-4 sm:px-6 lg:px-8">{/* Content goes here */}</div>

@@ -2,7 +2,7 @@
 import { CheckCircleIcon } from '@heroicons/react/solid'
 import { CheckIcon } from '@heroicons/react/solid'
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Steps',
+  title: 'Tailwind UI/Application UI/Navigation/Steps',
 };
 export function BulletsAndText() {
   /* This example requires Tailwind CSS v2.0+  

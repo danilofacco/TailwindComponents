@@ -4,7 +4,7 @@ import { Switch } from '@headlessui/react'
 
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Toogles',
+  title: 'Tailwind UI/Application UI/Forms/Toogles',
 };
 
 export function ShortToogle() {

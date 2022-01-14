@@ -20,7 +20,7 @@ import { Listbox, Transition } from '@headlessui/react'
 import { Tab } from '@headlessui/react'
  
 export default {
-  title: 'TailwindUI/Application UI/Forms/Textareas',
+  title: 'Tailwind UI/Application UI/Forms/Textareas',
 };
 
 

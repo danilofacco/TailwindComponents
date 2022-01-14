@@ -35,7 +35,7 @@ import {
 
 
 export default {
-  title: 'TailwindUI/Application UI/Application Shells/Sidebar',
+  title: 'Tailwind UI/Application UI/Application Shells/Sidebar',
 };
 
 

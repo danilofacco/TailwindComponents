@@ -5,7 +5,7 @@ import { CodeIcon, DotsVerticalIcon, FlagIcon, StarIcon, MailIcon, PhoneIcon } f
 
  
 export default {
-  title: 'TailwindUI/Application UI/Headings/Card Headings',
+  title: 'Tailwind UI/Application UI/Headings/Card Headings',
 };
 export function Simple() {
   return (

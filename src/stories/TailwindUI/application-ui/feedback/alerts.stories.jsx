@@ -3,7 +3,7 @@
 import { CheckCircleIcon, XIcon, XCircleIcon, ExclamationIcon, InformationCircleIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Feedback/Alerts',
+  title: 'Tailwind UI/Application UI/Feedback/Alerts',
 };
 
 

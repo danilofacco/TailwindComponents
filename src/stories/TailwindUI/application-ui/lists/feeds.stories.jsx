@@ -4,7 +4,7 @@
 
 
 export default {
-  title: 'TailwindUI/Application UI/Lists/Feeds',
+  title: 'Tailwind UI/Application UI/Lists/Feeds',
 }; 
 export function SimpleWithIcons(){
 /* This example requires Tailwind CSS v2.0+ 

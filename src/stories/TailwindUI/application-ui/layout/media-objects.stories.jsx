@@ -2,7 +2,7 @@
 
 
 export default {
-  title: 'TailwindUI/Application UI/Layout/Media Objects',
+  title: 'Tailwind UI/Application UI/Layout/Media Objects',
 };
 export function AlignedToBottom() {
   return (

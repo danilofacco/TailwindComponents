@@ -6,7 +6,7 @@ import { CheckCircleIcon,InboxIcon } from '@heroicons/react/outline'
 
  
 export default {
-  title: 'TailwindUI/Application UI/Overlays/Notifications',
+  title: 'Tailwind UI/Application UI/Overlays/Notifications',
 };
 export function Condensed() { 
   /* This example requires Tailwind CSS v2.0+  

@@ -1,6 +1,6 @@
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Checkboxes',
+  title: 'Tailwind UI/Application UI/Forms/Checkboxes',
 };
  
 export function ListWithChecboxOnRight() {

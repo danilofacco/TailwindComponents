@@ -3,7 +3,7 @@
 import { CreditCardIcon, KeyIcon, UserCircleIcon, UserGroupIcon, ViewGridAddIcon } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Application UI/Forms/Form Layouts',
+  title: 'Tailwind UI/Application UI/Forms/Form Layouts',
 };
 
 

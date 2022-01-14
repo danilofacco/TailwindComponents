@@ -4,7 +4,7 @@ import { Dialog, Transition } from '@headlessui/react'
 import { CheckIcon ,ExclamationIcon, XIcon} from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Application UI/Overlays/Modals',
+  title: 'Tailwind UI/Application UI/Overlays/Modals',
 };
 export function CenteredWithSingleAction() { 
   /* This example requires Tailwind CSS v2.0+  

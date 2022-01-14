@@ -1,6 +1,6 @@
 import { HomeIcon,ChevronRightIcon } from '@heroicons/react/solid' 
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Breadcrumbs',
+  title: 'Tailwind UI/Application UI/Navigation/Breadcrumbs',
 }; 
 export function Constrained(){
 

@@ -86,7 +86,7 @@ import {
  
 
 export default {
-  title: 'TailwindUI/Application UI/Page Examples/Home Screens',
+  title: 'Tailwind UI/Application UI/Page Examples/Home Screens',
 };
 export function CardLayoutWithSidebar() { 
   /*

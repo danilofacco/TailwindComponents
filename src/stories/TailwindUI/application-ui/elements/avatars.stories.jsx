@@ -1,6 +1,6 @@
 
 export default {
-  title: 'TailwindUI/Application UI/Elements/Avatars',
+  title: 'Tailwind UI/Application UI/Elements/Avatars',
 };
 
 

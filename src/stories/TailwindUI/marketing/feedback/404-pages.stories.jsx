@@ -6,7 +6,7 @@ import { ChevronRightIcon } from '@heroicons/react/solid'
 import { BookmarkAltIcon, BookOpenIcon, RssIcon, ViewListIcon } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Marketing/Feedback/404 Pages',
+  title: 'Tailwind UI/Marketing/Feedback/404 Pages',
 };
 export function SimpleWithLogo() { 
 /* This example requires Tailwind CSS v2.0+ */

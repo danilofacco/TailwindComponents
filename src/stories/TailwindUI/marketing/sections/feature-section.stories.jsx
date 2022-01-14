@@ -20,7 +20,7 @@ import {
   AnnotationIcon, GlobeAltIcon, LightningBoltIcon, MailIcon, ScaleIcon
 } from '@heroicons/react/outline'
 export default {
-  title: 'TailwindUI/Marketing/Sections/Feature Sections',
+  title: 'Tailwind UI/Marketing/Sections/Feature Sections',
 };
 export function Grid4x2OnBrand() {
   /* This example requires Tailwind CSS v2.0+ 

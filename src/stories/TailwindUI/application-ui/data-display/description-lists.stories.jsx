@@ -5,7 +5,7 @@ import { PaperClipIcon } from '@heroicons/react/solid'
 
 
 export default {
-  title: 'TailwindUI/Application UI/Data Display/Description Lists',
+  title: 'Tailwind UI/Application UI/Data Display/Description Lists',
 };
 
 

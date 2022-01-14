@@ -30,7 +30,7 @@ import {
   UserGroupIcon, 
 } from '@heroicons/react/outline'
 export default {
-  title: 'TailwindUI/Marketing/Elements/Headers',
+  title: 'Tailwind UI/Marketing/Elements/Headers',
 };
 export function CenteredeWithBottomBorder() {
   /* This example requires Tailwind CSS v2.0+  

@@ -4,7 +4,7 @@ import { PlusSmIcon as PlusSmIconSolid } from '@heroicons/react/solid'
 import { PlusSmIcon as PlusSmIconOutline } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Application UI/Elements/Buttons',
+  title: 'Tailwind UI/Application UI/Elements/Buttons',
 };
 export function ButtonWithLeadingIcon() {
   /*import { MailIcon } from '@heroicons/react/solid'*/

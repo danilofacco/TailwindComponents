@@ -39,7 +39,7 @@ function classNames(...classes) {
 }
 
 export default {
-  title: 'TailwindUI/Application UI/Application Shells/Stacked',
+  title: 'Tailwind UI/Application UI/Application Shells/Stacked',
 };
 
 

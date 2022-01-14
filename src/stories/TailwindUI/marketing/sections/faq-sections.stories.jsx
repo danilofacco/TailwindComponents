@@ -5,7 +5,7 @@ import { Disclosure } from '@headlessui/react'
 import { ChevronDownIcon } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Marketing/Sections/FAQ Sections',
+  title: 'Tailwind UI/Marketing/Sections/FAQ Sections',
 };
 export function CenteredAccordion() {
   /* This example requires Tailwind CSS v2.0+

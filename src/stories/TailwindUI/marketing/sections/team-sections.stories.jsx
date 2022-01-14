@@ -1,7 +1,7 @@
  
  
 export default {
-  title: 'TailwindUI/Marketing/Sections/Team Sections',
+  title: 'Tailwind UI/Marketing/Sections/Team Sections',
 };
 export function DarkVersionWithLargeImages() {
   /* This example requires Tailwind CSS v2.0+ */
@@ -29,7 +29,7 @@ const people = [
               neque.
             </p>
           </div>
-          <ul role="list" className="space-y-4 sm:grid sm:grid-cols-2 sm:gap-6 sm:space-y-0 lg:grid-cols-3 lg:gap-8">
+          <ul  className="space-y-4 sm:grid sm:grid-cols-2 sm:gap-6 sm:space-y-0 lg:grid-cols-3 lg:gap-8">
             {people.map((person) => (
               <li key={person.name} className="py-10 px-6 bg-gray-800 text-center rounded-lg xl:px-10 xl:text-left">
                 <div className="space-y-6 xl:space-y-10">
@@ -40,7 +40,7 @@ const people = [
                       <p className="text-indigo-400">{person.role}</p>
                     </div>
 
-                    <ul role="list" className="flex justify-center space-x-5">
+                    <ul  className="flex justify-center space-x-5">
                       <li>
                         <a href={person.twitterUrl} className="text-gray-400 hover:text-gray-300">
                           <span className="sr-only">Twitter</span>
@@ -110,7 +110,7 @@ const people = [
           <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">Meet our leadership</h2>
 
           <ul
-            role="list"
+            
             className="space-y-12 lg:grid lg:grid-cols-2 lg:items-start lg:gap-x-8 lg:gap-y-12 lg:space-y-0"
           >
             {people.map((person) => (
@@ -167,7 +167,7 @@ const people = [
             </p>
           </div>
           <ul
-            role="list"
+            
             className="mx-auto space-y-16 sm:grid sm:grid-cols-2 sm:gap-16 sm:space-y-0 lg:grid-cols-3 lg:max-w-5xl"
           >
             {people.map((person) => (
@@ -179,7 +179,7 @@ const people = [
                       <h3>{person.name}</h3>
                       <p className="text-indigo-600">{person.role}</p>
                     </div>
-                    <ul role="list" className="flex justify-center space-x-5">
+                    <ul  className="flex justify-center space-x-5">
                       <li>
                         <a href={person.twitterUrl} className="text-gray-400 hover:text-gray-500">
                           <span className="sr-only">Twitter</span>
@@ -237,7 +237,7 @@ const people = [
             </p>
           </div>
           <ul
-            role="list"
+            
             className="mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-5xl lg:gap-x-8 lg:gap-y-12 xl:grid-cols-6"
           >
             {people.map((person) => (
@@ -305,7 +305,7 @@ const people = [
           </div>
           <div className="lg:col-span-2">
             <ul
-              role="list"
+              
               className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:gap-x-8"
             >
               {people.map((person) => (
@@ -322,7 +322,7 @@ const people = [
                       <p className="text-gray-500">{person.bio}</p>
                     </div>
 
-                    <ul role="list" className="flex space-x-5">
+                    <ul  className="flex space-x-5">
                       <li>
                         <a href={person.twitterUrl} className="text-gray-400 hover:text-gray-500">
                           <span className="sr-only">Twitter</span>
@@ -397,7 +397,7 @@ const people = [
             </p>
           </div>
           <ul
-            role="list"
+            
             className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-3 lg:gap-x-8"
           >
             {people.map((person) => (
@@ -412,7 +412,7 @@ const people = [
                       <h3>{person.name}</h3>
                       <p className="text-indigo-600">{person.role}</p>
                     </div>
-                    <ul role="list" className="flex space-x-5">
+                    <ul  className="flex space-x-5">
                       <li>
                         <a href={person.twitterUrl} className="text-gray-400 hover:text-gray-500">
                           <span className="sr-only">Twitter</span>
@@ -470,7 +470,7 @@ const people = [
             </p>
           </div>
           <div className="lg:col-span-2">
-            <ul role="list" className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0 lg:gap-x-8">
+            <ul  className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0 lg:gap-x-8">
               {people.map((person) => (
                 <li key={person.name}>
                   <div className="flex items-center space-x-4 lg:space-x-6">
@@ -535,7 +535,7 @@ const people = [
           </div>
           <div className="lg:col-span-2">
             <ul
-              role="list"
+              
               className="space-y-12 sm:divide-y sm:divide-gray-200 sm:space-y-0 sm:-mt-8 lg:gap-x-8 lg:space-y-0"
             >
               {people.map((person) => (
@@ -553,7 +553,7 @@ const people = [
                         <div className="text-lg">
                           <p className="text-gray-500">{person.bio}</p>
                         </div>
-                        <ul role="list" className="flex space-x-5">
+                        <ul  className="flex space-x-5">
                           <li>
                             <a href={person.twitterUrl} className="text-gray-400 hover:text-gray-500">
                               <span className="sr-only">Twitter</span>

@@ -1,7 +1,7 @@
 
 import { ExternalLinkIcon } from '@heroicons/react/solid'
 export default {
-  title: 'TailwindUI/Marketing/Sections/CTA Sections',
+  title: 'Tailwind UI/Marketing/Sections/CTA Sections',
 };
 export function BRandPanelWithAppScreenshot() {
   /*

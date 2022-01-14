@@ -23,7 +23,7 @@ import {
 import { CheckIcon, CheckIcon as CheckIconSolid, ChevronDownIcon, MinusIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Marketing/Page Examples/Pricing Pages',
+  title: 'Tailwind UI/Marketing/Page Examples/Pricing Pages',
 };
 export function WithComparisonTable() {
   /*

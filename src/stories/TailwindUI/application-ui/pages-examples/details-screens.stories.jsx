@@ -66,7 +66,7 @@ import {
  
 
 export default {
-  title: 'TailwindUI/Application UI/Page Examples/Details Screens',
+  title: 'Tailwind UI/Application UI/Page Examples/Details Screens',
 };
 export function ConstrainedWithSidebar() {
   /*

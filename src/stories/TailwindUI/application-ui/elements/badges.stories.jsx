@@ -1,6 +1,6 @@
 
 export default {
-  title: 'TailwindUI/Application UI/Elements/Badges',
+  title: 'Tailwind UI/Application UI/Elements/Badges',
 };
 
 export function BadgeWithDot() {

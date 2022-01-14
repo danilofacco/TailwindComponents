@@ -1,7 +1,7 @@
 
 import { CameraIcon } from '@heroicons/react/solid'
 export default {
-  title: 'TailwindUI/Marketing/Sections/Content Sections',
+  title: 'Tailwind UI/Marketing/Sections/Content Sections',
 };
 export function Centered() {
   /*

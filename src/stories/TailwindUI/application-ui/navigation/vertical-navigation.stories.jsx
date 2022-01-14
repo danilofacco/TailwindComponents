@@ -1,7 +1,7 @@
 import { CalendarIcon, ChartBarIcon, FolderIcon, HomeIcon, InboxIcon, UsersIcon } from '@heroicons/react/outline'
 
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Vertical Navigation',
+  title: 'Tailwind UI/Application UI/Navigation/Vertical Navigation',
 };
 export function onGray() {
   /* This example requires Tailwind CSS v2.0+  

@@ -6,7 +6,7 @@ import { DotsVerticalIcon } from '@heroicons/react/solid'
 import { ChevronDownIcon, SearchIcon, SortAscendingIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Headings/Section Headings',
+  title: 'Tailwind UI/Application UI/Headings/Section Headings',
 };
 
  

@@ -4,7 +4,7 @@ import { ChevronDownIcon } from '@heroicons/react/solid'
 import { NewspaperIcon, PhoneIcon, SupportIcon } from '@heroicons/react/outline'
  
 export default {
-  title: 'TailwindUI/Marketing/Sections/Header',
+  title: 'Tailwind UI/Marketing/Sections/Header',
 };
 export function BrandedWithBackgroundImage() {
   /* This example requires Tailwind CSS v2.0+ */

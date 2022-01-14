@@ -92,7 +92,7 @@ import {
  
 
 export default {
-  title: 'TailwindUI/Application UI/Page Examples/Settings Screens',
+  title: 'Tailwind UI/Application UI/Page Examples/Settings Screens',
 };
 export function BrandNavWithOverlapAndSidebarForm() { 
   /*

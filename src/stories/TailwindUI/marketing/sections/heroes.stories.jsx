@@ -25,7 +25,7 @@
 import { ChevronRightIcon, StarIcon, ChevronDownIcon  } from '@heroicons/react/solid'
  
 export default {
-  title: 'TailwindUI/Marketing/Sections/Heroes',
+  title: 'Tailwind UI/Marketing/Sections/Heroes',
 };
 export function CardWithBackgroundImage() {
   /* This example requires Tailwind CSS v2.0+ 

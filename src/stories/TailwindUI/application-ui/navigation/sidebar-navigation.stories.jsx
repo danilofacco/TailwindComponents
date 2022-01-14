@@ -1,7 +1,7 @@
 import { CalendarIcon, ChartBarIcon, FolderIcon, HomeIcon, InboxIcon, UsersIcon } from '@heroicons/react/outline'
 import { Disclosure } from '@headlessui/react'
 export default {
-  title: 'TailwindUI/Application UI/Navigation/Sidebar Navigation',
+  title: 'Tailwind UI/Application UI/Navigation/Sidebar Navigation',
 };
 export function BrandWithIconsBadgesAndProfileSection() {
   /* This example requires Tailwind CSS v2.0+

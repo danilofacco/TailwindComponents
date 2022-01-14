@@ -14,7 +14,7 @@ import { MailIcon, PhoneIcon ,DotsVerticalIcon} from '@heroicons/react/solid'
 
  
 export default {
-  title: 'TailwindUI/Application UI/Lists/Grid Lists',
+  title: 'Tailwind UI/Application UI/Lists/Grid Lists',
 }; 
 
 

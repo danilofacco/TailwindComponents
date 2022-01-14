@@ -16,7 +16,7 @@ import { Menu, Transition } from '@headlessui/react'
 
  
 export default {
-  title: 'TailwindUI/Application UI/Headings/Page Headings',
+  title: 'Tailwind UI/Application UI/Headings/Page Headings',
 };
 
   

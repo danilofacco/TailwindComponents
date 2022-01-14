@@ -6,7 +6,7 @@ import { XIcon ,HeartIcon} from '@heroicons/react/outline'
 import { DotsVerticalIcon,LinkIcon,PencilIcon, PlusSmIcon, QuestionMarkCircleIcon } from '@heroicons/react/solid'
 
 export default {
-  title: 'TailwindUI/Application UI/Overlays/Slide Overs',
+  title: 'Tailwind UI/Application UI/Overlays/Slide Overs',
 };
 export function ContactListExample() { 
   /* This example requires Tailwind CSS v2.0+  

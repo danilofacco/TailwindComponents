@@ -5,7 +5,7 @@ import { AnnotationIcon, PaperClipIcon, PencilIcon, TrashIcon } from '@heroicons
 
 
 export default {
-  title: 'TailwindUI/Application UI/Layout/Dividers',
+  title: 'Tailwind UI/Application UI/Layout/Dividers',
 };
 export function with_button() {
   /* This example requires Tailwind CSS v2.0+ 
